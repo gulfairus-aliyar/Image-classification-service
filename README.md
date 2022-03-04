@@ -1,8 +1,10 @@
 # Image-classification-service
 ## Title
 Image classification service using Django and Keras
-``Done by: Aliyar Gulfairus, Abuova Izel
-Group: SE-2010``
+
+* ``Done by: Aliyar Gulfairus, Abuova Izel``
+* ``Group: SE-2010``
+
 ## Installation
 #### Clone the repository to your local machine:
 ``git clone your-git-repo``  
